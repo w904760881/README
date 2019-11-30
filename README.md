@@ -2,14 +2,6 @@ README
 ===========================
 该文件用来测试和展示书写README的各种markdown语法。GitHub的markdown语法在标准的markdown语法基础上做了扩充，称之为`GitHub Flavored Markdown`。简称`GFM`，GFM在GitHub上有广泛应用，除了README文件外，issues和wiki均支持markdown语法。
 
-****
-	
-|Author|果冻虾仁|
-|---|---
-|E-mail|Jelly.K.Wang@qq.com
-
-
-****
 ## 目录
 * [横线](#横线)
 * [标题](#标题)
@@ -388,10 +380,3 @@ GFM中可以显示的展示diff效果。使用绿色表示新增，红色表示�
 ```
 
 --------------------------------
-[csdn]:http://blog.csdn.net/guodongxiaren "我的博客"
-[zhihu]:https://www.zhihu.com/people/jellywong "我的知乎，欢迎关注"
-[weibo]:http://weibo.com/linpiaochen
-[baidu-logo]:http://www.baidu.com/img/bdlogo.gif "百度logo"
-[weibo-logo]:/img/weibo.png "点击图片进入我的微博"
-[csdn-logo]:/img/csdn.png "我的CSDN博客"
-[code-past]:https://img-blog.csdnimg.cn/201908060004034.png
