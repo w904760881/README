@@ -124,11 +124,12 @@ ___
 
 # 代码
 
+* java 代码
 ```java
-	public static void main(String[]argus){
-        System.out.printlv("hello world!");
-	}
+	System.out.printlv("hello world!");
 ```
+
+* javascript 代码
 ```javascript
     console.log("hello world!")
 ```
